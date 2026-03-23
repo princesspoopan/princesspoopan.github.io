@@ -1,0 +1,1 @@
+import{R as t,j as s,L as r}from"./index-JKDJAoYV.js";class n extends t.Component{render(){return this.props.href?s.jsx("a",{className:"button",target:"blank",href:this.props.href,children:this.props.children}):s.jsx(r,{className:"button",to:this.props.to,children:this.props.children})}}export{n as B};
